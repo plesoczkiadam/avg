@@ -1,0 +1,2 @@
+# avg
+átlag sebesség számitása
